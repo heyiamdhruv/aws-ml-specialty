@@ -17,5 +17,3 @@ Contributions are welcome! If you have study notes, practice questions, code exa
 ## Disclaimer
 This repository is intended for educational purposes only. While every effort is made to ensure the accuracy of the information provided, it is not a replacement for official AWS documentation or professional training. Always refer to the official AWS documentation and seek guidance from certified professionals when in doubt.
 
-## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
